@@ -1,3 +1,5 @@
+# -*- coding: utf8 -*-
+
 from __future__ import unicode_literals
 import unittest
 from imbox.parser import *
@@ -58,7 +60,7 @@ class TestParser(unittest.TestCase):
 
     def test_decode_mail_header(self):
         pass
-   
+
     def test_get_mail_addresses(self):
 
         to_message_object = email.message_from_string("To: John Doe <johndoe@gmail.com>")

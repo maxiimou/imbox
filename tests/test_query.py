@@ -1,3 +1,5 @@
+# -*- coding: utf8 -*-
+
 import unittest
 from imbox.query import build_search_query
 from datetime import date
