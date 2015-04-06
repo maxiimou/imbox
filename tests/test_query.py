@@ -1,4 +1,5 @@
 # -*- coding: utf8 -*-
+from __future__ import unicode_literals
 
 import unittest
 from imbox.query import build_search_query

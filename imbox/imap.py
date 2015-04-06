@@ -1,4 +1,5 @@
 # -*- coding: utf8 -*-
+from __future__ import unicode_literals
 
 from imaplib import IMAP4, IMAP4_SSL
 

@@ -1,4 +1,5 @@
 # -*- coding: utf8 -*-
+from __future__ import unicode_literals
 
 from imbox.imap import ImapTransport
 from imbox.parser import parse_email
